@@ -1,0 +1,102 @@
+[
+  {
+    "position": 1,
+    "name": "NOWPayments",
+    "slug": "nowpayments",
+    "description": "Supports 300+ cryptocurrencies, automatic coin conversion, non-custodial, and easy API for NFT platforms.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nowpayments.jpg",
+    "target_audience_match": "Perfect for Web3 founders who want max flexibility with minimal integration pain.",
+    "price": "From 0.5% per transaction",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "CoinGate",
+    "slug": "coingate",
+    "description": "Reliable crypto payment gateway with fiat settlement, invoicing, and e-commerce plugins.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/coingate.jpg",
+    "target_audience_match": "Ideal for NFT platforms or global stores needing crypto + fiat flexibility.",
+    "price": "From 1% per transaction",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Venly Payments",
+    "slug": "venly-payments",
+    "description": "NFT-first payment gateway that supports both wallet and credit card payments globally.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/venly-payments.jpg",
+    "target_audience_match": "For NFT platforms seeking smooth credit card + wallet payments worldwide.",
+    "price": "Flexible plans",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Alchemy Pay",
+    "slug": "alchemy-pay",
+    "description": "Global fiat-to-crypto gateway with card support, compliance tools, and wallet compatibility.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/alchemy-pay.jpg",
+    "target_audience_match": "Great for global NFT projects needing frictionless fiat onramps.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "MoonPay",
+    "slug": "moonpay",
+    "description": "Mainstream fiat-to-NFT gateway with integrations into major marketplaces and credit card support.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/moonpay.jpg",
+    "target_audience_match": "For platforms onboarding normies via credit card or mobile payments.",
+    "price": "Varies by transaction",
+    "data-link": "pending"
+  },
+  {
+    "position": 6,
+    "name": "Transak",
+    "slug": "transak",
+    "description": "Regulation-compliant fiat-to-crypto onramp with 170+ token support and developer-friendly APIs.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/transak.jpg",
+    "target_audience_match": "For compliance-sensitive NFT platforms needing global coverage.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 7,
+    "name": "BitPay",
+    "slug": "bitpay",
+    "description": "Enterprise-grade crypto processor trusted by global brands, with fiat conversion and stable settlement.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/bitpay.jpg",
+    "target_audience_match": "Great for established companies adding crypto checkout securely.",
+    "price": "Contact for pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 8,
+    "name": "Coinbase Commerce",
+    "slug": "coinbase-commerce",
+    "description": "Trusted crypto payment gateway with major wallet support and optional fiat conversion.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/coinbase-commerce.jpg",
+    "target_audience_match": "For platforms that want Coinbase-trusted infrastructure with crypto flexibility.",
+    "price": "From 1% per transaction",
+    "data-link": "pending"
+  },
+  {
+    "position": 9,
+    "name": "CoinsPaid",
+    "slug": "coinspaid",
+    "description": "Crypto-native processor with wallet vaulting, fiat settlement, and broad token support.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/coinspaid.jpg",
+    "target_audience_match": "Ideal for projects needing flexible custody and conversion options.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 10,
+    "name": "BTCPay Server",
+    "slug": "btcpay-server",
+    "description": "Open-source, self-hosted crypto checkout with full control, privacy, and no third-party risk.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/btcpay-server.jpg",
+    "target_audience_match": "Best for privacy-first or decentralized NFT communities.",
+    "price": "Free",
+    "data-link": "pending"
+  }
+]
