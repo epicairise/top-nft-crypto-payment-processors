@@ -98,5 +98,46 @@
     "target_audience_match": "Best for privacy-first or decentralized NFT communities.",
     "price": "Free",
     "data-link": "pending"
+  },
+   {
+    "position": 11,
+    "name": "Stripe (Web3)",
+    "slug": "stripe-web3",
+    "description": "Hybrid fiat/crypto processor with wallet top-ups, global KYC, and payout infrastructure.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/stripe-crypto.jpg",
+    "target_audience_match": "For Web3 projects needing fiat integration from a mainstream provider.",
+    "price": "Standard Stripe fees",
+    "data-link": "pending"
+  },
+  {
+    "position": 12,
+    "name": "Crossmint",
+    "slug": "crossmint",
+    "description": "NFT checkout without wallets. Users can pay via email and credit card, no prior crypto experience needed.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/crossmint.jpg",
+    "target_audience_match": "For platforms that need to convert normies fast.",
+    "price": "Usage-based",
+    "data-link": "pending"
+  },
+  {
+    "position": 13,
+    "name": "Paper.xyz",
+    "slug": "paper-xyz",
+    "description": "Wallet + credit card checkout built for NFT creators. Handles compliance, UX, and wallet creation.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/paper-xyz.jpg",
+    "target_audience_match": "Best for NFT drops and membership sites that prioritize UX.",
+    "price": "Free tier available",
+    "data-link": "pending"
+  },
+  {
+    "position": 14,
+    "name": "Simplex",
+    "slug": "simplex",
+    "description": "Fiat-to-NFT processor that supports initial mint, resale, and whitelist payments with compliance.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/simplex.jpg",
+    "target_audience_match": "Useful for mint or whitelist platforms targeting fiat buyers.",
+    "price": "Contact for pricing",
+    "data-link": "pending"
   }
+
 ]
